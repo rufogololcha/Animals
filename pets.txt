@@ -2,3 +2,5 @@
    Sky
    Bob
    Buchi
+   Huro
+   Anbes
